@@ -7,9 +7,8 @@ Full-Stack Web Developer
 I started my web development journey in late 2020. After quickly picking up HTML & CSS, I moved on to learn PHP it's most popular framework, Laravel. Somewhere along the way I also picked up JavaScript & React as well.
 
 * 🌍  I'm based in Maldives
-* ✉️  You can contact me at [zedox@zedox.xyz](mailto:zedox@zedox.xyz)
 * 🧠  I'm learning Vuejs & Python
-* 🤝  I'm open to collaborating on Interesting projects
+* 🤝  I'm open to collaborating on Interesting Projects
 
 ### Skills
 
@@ -40,8 +39,7 @@ I started my web development journey in late 2020. After quickly picking up HTML
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/Z3d0X/filament-logger" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Z3d0X&repo=filament-logger&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/Z3d0X/filament-simple-permissions" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Z3d0X&repo=filament-simple-permissions&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/Z3d0X/filament-logger" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Z3d0X&repo=filament-logger&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/Z3d0X/filament-simple-permissions" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Z3d0X&repo=filament-simple-permissions&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br />
 
-<br /><br /><br /><br /><br />
-
+<br /><br /><br />
 <div width="100%" align="center"><a href="https://github.com/Z3d0X/laravel-dhiraagu-sms" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Z3d0X&repo=laravel-dhiraagu-sms&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=000000&hide_border=true&locale=en" /></a></div>
