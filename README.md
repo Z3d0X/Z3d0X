@@ -38,11 +38,11 @@ Thesedays I mainly work with [Laravel](https://laravel.com). TALL stack ([Tailwi
 <b>Top Repositories</b>
 
   <a href="https://github.com/Z3d0X/filament-logger" align="center">
-    <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Z3d0X&repo=filament-logger&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=000000&hide_border=true&locale=en" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Z3d0X&repo=filament-logger&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=000000&hide_border=true&locale=en" />
   </a>
   <br /><br />
   <a href="https://github.com/Z3d0X/filament-simple-permissions" align="center">
-    <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Z3d0X&repo=filament-simple-permissions&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=000000&hide_border=true&locale=en" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Z3d0X&repo=filament-simple-permissions&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=000000&hide_border=true&locale=en" />
   </a>
   <br /><br />
-<a href="https://github.com/Z3d0X/laravel-dhiraagu-sms" align="center"><img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Z3d0X&repo=laravel-dhiraagu-sms&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=000000&hide_border=true&locale=en" /></a>
+<a href="https://github.com/Z3d0X/laravel-dhiraagu-sms" align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Z3d0X&repo=laravel-dhiraagu-sms&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=000000&hide_border=true&locale=en" /></a>
