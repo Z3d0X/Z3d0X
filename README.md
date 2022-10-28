@@ -31,6 +31,9 @@ Thesedays I mainly work with [Laravel](https://laravel.com). TALL stack ([Tailwi
 
 ### Badges
 
+<b>Holopins</b>
+[![@zedox's Holopin board](https://holopin.me/zedox)](https://holopin.io/@zedox)
+
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/Z3d0X"><img src="https://github-readme-stats.vercel.app/api?username=Z3d0X&show_icons=true&hide=&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=000000&hide_border=true&show_icons=true" alt="Z3d0X's GitHub stats" /></a>
