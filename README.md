@@ -8,6 +8,8 @@ I started my web development journey in late 2020. After quickly picking up HTML
 
 Thesedays I mainly work with [Laravel](https://laravel.com). TALL stack ([Tailwind](https://tailwindcss.com), [Alpine.js](https://alpinejs.dev), [Laravel](https://laravel.com), [Livewire](https://laravel-livewire.com)) to be specific. You may also see me occasionally contributing to open-source projects or hanging around in the [Filament](https://filamentphp.com) Community
 
+<a href="https://www.buymeacoffee.com/ZedoX" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-black.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
 ### Skills
 
 <p align="left">
