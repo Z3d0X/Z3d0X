@@ -1,4 +1,4 @@
-Hi 👋 My name is Ziyaan
+Hi 👋 I'm ZedoX
 =======================
 
 Full-Stack Web Developer
