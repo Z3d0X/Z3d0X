@@ -4,8 +4,6 @@ Hi 👋 I'm ZedoX
 Full-Stack Web Developer
 ------------------------
 
-I started my web development journey in late 2020. After quickly picking up HTML & CSS, I moved on to learn PHP it's most popular framework, Laravel. Somewhere along the way I also picked up JavaScript & React as well.
-
 Thesedays I mainly work with [Laravel](https://laravel.com). You may also see me occasionally contributing to open-source projects.
 
 <a href="https://www.buymeacoffee.com/ZedoX" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-black.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
